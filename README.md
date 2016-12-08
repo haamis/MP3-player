@@ -1,2 +1,2 @@
-# MP3-soitin
-Yksinkertainen MP3-soitin.
+# MP3-player
+A simple MP3-player written in Java.
